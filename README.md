@@ -1,8 +1,8 @@
-### Hi there, I'm Hudeyfa - aka [codeSTACKr][website] 👋
+### Hi there, I'm Hudeyfa - aka [mjki4hj3][website] 👋
 
 ## I'm a developer and chemical engineering graduate!
 
-- 🌧️ I'm currently an application developer working in the cloud!
+- 🌧️ I'm currently an application developer working in the cloud
 - 🌱 I’m currently learning all things DevOps
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
