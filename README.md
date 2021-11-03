@@ -1,14 +1,11 @@
-### Hi there, I'm Hudeyfa - aka [mjki4hj3][website] 👋
+# Hi there, I'm Hudeyfa 👋
 
-## I'm a developer and chemical engineering graduate!
-
-- 🌧️ I'm currently an application developer working in the cloud
+- 🌧️ I'm an application developer working in the cloud
 - 🌱 I’m currently learning all things DevOps
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="hudeyfajama.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
