@@ -1,8 +1,8 @@
 # Hi there, I'm Hudeyfa 👋
 
-- 🌧️ I'm an application developer working in the cloud
-- 🌱 I’m currently learning all things DevOps
-- 🥅 2021 Goals: Contribute more to Open Source projects
+## - 🌧️ I'm an application developer working in the cloud
+## - 🌱 I’m currently learning all things DevOps
+## - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
