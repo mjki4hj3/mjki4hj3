@@ -1,4 +1,4 @@
-# Hi there, I'm Hudeyfa 👋
+# Hi there, I'm Jama 👋
 
 - 🌧️ I'm an application developer working in the cloud
 - 🌱 I’m currently learning all things DevOps
