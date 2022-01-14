@@ -1,7 +1,7 @@
 # Hi there, I'm Jama 👋
 
 - 🌧️ I'm an application developer working in the cloud
-- 🌱 I’m currently learning all things DevOps
+- 🌱 I’m currently learning about: Kubernetes and Power Platform
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
