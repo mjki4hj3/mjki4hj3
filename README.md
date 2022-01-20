@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning about: Kubernetes and Docker
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+<br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+[Get Scheduled - An Overview](https://medium.com/@hudeyfa.jama/get-scheduled-an-overview-f9dbd02a44ef)
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
