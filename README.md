@@ -32,5 +32,5 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br /> <br />
 
-<p><img https://github-readme-stats.vercel.app/api/top-langs?username=mjki4hj3&show_icons=true&locale=en&layout=compact alt="mjki4hj3 statistics" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjki4hj3&show_icons=true&locale=en&layout=compact" alt="mjki4hj3 statistics" /></p>
 
