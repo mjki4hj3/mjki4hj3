@@ -1,7 +1,7 @@
 # Hi there, I'm Jama 👋
 
-- 🌧️ I'm an application developer working in the cloud
-- 🌱 I’m currently learning about: Terraform, Ansible, Kubernetes and Docker
+- 🌧️ I'm an DevOps Engineer working in Data
+- 🌱 I’m currently learning about: GCP
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <br />
