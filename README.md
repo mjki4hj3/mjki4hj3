@@ -2,14 +2,15 @@
 
 - 🌧️ I'm a DevOps Engineer working in Data
 - 🌱 I’m currently learning about: GCP
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 <br />
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-[Get Scheduled - An Overview](https://medium.com/@hudeyfa.jama/get-scheduled-an-overview-f9dbd02a44ef)
+[Escaping Tutorial Hell](https://medium.com/@hudeyfa.jama/escaping-tutorial-hell-26de2f937cd0)
+[Reflection on 2 Years in Tech](https://medium.com/@hudeyfa.jama/lessons-learned-a-short-reflection-on-two-years-in-tech-f8054daf514d)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
