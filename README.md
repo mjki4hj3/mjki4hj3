@@ -10,6 +10,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 [Escaping Tutorial Hell](https://medium.com/@hudeyfa.jama/escaping-tutorial-hell-26de2f937cd0)
+
 [Reflection on 2 Years in Tech](https://medium.com/@hudeyfa.jama/lessons-learned-a-short-reflection-on-two-years-in-tech-f8054daf514d)
 <!-- BLOG-POST-LIST:END -->
 
