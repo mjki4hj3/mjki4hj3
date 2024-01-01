@@ -1,5 +1,7 @@
 # Hi there, I'm Jama 👋
+
 <br />
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
