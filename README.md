@@ -1,9 +1,5 @@
 # Hi there, I'm Jama 👋
 
-- 🌧️ I'm a DevOps Engineer working in Data
-- 🌱 I’m currently learning about: GCP
-- 🥅 2023 Goals: Contribute more to Open Source projects
-
 <br />
 
 ### 📕 Latest Blog Posts
