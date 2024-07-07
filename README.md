@@ -5,7 +5,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-[Escaping Tutorial Hell](https://medium.com/@hudeyfa.jama/escaping-tutorial-hell-26de2f937cd0)
+[Guide To Centralised Multi-Project Log Monitoring with VPC SC](https://medium.com/@hudeyfa.jama/guide-to-centralised-multi-project-log-monitoring-with-vpc-sc-420fc5b3ccc6)
+
+[Imposter Syndrome](https://hudeyfajama.substack.com/p/the-pattern-2-imposter-syndrome)
+
+[Escaping Tutorial Hell](https://hudeyfajama.substack.com/p/escaping-tutorial-hell)
 
 [Reflection on 2 Years in Tech](https://medium.com/@hudeyfa.jama/lessons-learned-a-short-reflection-on-two-years-in-tech-f8054daf514d)
 <!-- BLOG-POST-LIST:END -->
